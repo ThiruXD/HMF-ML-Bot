@@ -38,7 +38,7 @@ MEDIAINFO_ENABLED = ""          #Default is False (only use by owner/sudo) Make 
 SET_BOT_COMMANDS = "" 
 
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/ThiruXD/HMF-ML-Bot"
 UPSTREAM_BRANCH = ""
 
 #PM SUPPORT
